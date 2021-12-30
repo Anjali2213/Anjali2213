@@ -75,7 +75,7 @@
 						},
 						"userProperties": [],
 						"typeProperties": {
-							"notebookPath": "/Shared/not30",
+							"notebookPath": "/anjali/anjali1",
 							"baseParameters": {
 								"input": {
 									"value": "@pipeline().parameters.name",
