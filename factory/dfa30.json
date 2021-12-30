@@ -1,0 +1,9 @@
+{
+	"name": "dfa30",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "16b995c7-c637-48c4-b87c-81c4d718cf79",
+		"tenantId": "98fc1a88-58ed-44ab-96f9-82b15b5c8993"
+	}
+}
