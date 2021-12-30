@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "dfa30"
 		},
+		"AzureDatabricks_accessToken": {
+			"value": ""
+		},
 		"AzureDatabricksDeltaLake1_accessToken": {
 			"value": ""
 		}
